@@ -1,12 +1,12 @@
-# shinobot
+# yournamebot
 
 [![Code Climate](https://codeclimate.com/github/jaredallard/shinobot/badges/gpa.svg)](https://codeclimate.com/github/jaredallard/shinobot)
 
-A bot that posts images of Asada Shino!
+A bot that posts images of 'Your Name'
 
 ## Setup
 
-Google CSE https://www.npmjs.com/package/google-images#set-up-google-custom-search-engine
+Pixiv: https://pixiv.net
 Twitter Apps: https://apps.twitter.com
 
 `config.example.json` **MODIFY IT** -> `config.json`

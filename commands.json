@@ -30,14 +30,6 @@
       "flag": "gi"
     },
     "function": "denyImage"
-  },
-  {
-    "stream": "mentions",
-    "pattern": {
-      "string": "i love you",
-      "flag": "gi"
-    },
-    "function": "love"
   }],
   "streams": [
     "home",

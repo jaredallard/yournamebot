@@ -7,6 +7,7 @@ A bot that posts images of 'Your Name', from [shinobot](https://github.com/jared
 ## Setup
 
 Pixiv: https://pixiv.net
+
 Twitter Apps: https://apps.twitter.com
 
 `config.example.json` **MODIFY IT** -> `config.json`

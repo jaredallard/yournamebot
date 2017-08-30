@@ -2,7 +2,7 @@
 
 [![Code Climate](https://codeclimate.com/github/jaredallard/shinobot/badges/gpa.svg)](https://codeclimate.com/github/jaredallard/shinobot)
 
-A bot that posts images of 'Your Name'
+A bot that posts images of 'Your Name', from [shinobot](https://github.com/jaredallard/shinobot)
 
 ## Setup
 
@@ -17,7 +17,12 @@ Twitter Apps: https://apps.twitter.com
 git clone https://github.com/jaredallard/shinobot
 cd shinobot
 [yarn/npm] install
-node index.js
+
+# install shinojs
+npm install -g shinojs
+
+# run shinojs
+shinojs
 ```
 
 ## Engine
